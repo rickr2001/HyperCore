@@ -2,9 +2,9 @@
 
 ## One Platform. Complete Infrastructure.
 
-HyperCore is an open-source Infrastructure Operating Platform designed to unify compute, storage, networking, security, automation, and infrastructure intelligence into a single, cohesive operational experience.
+HyperCore is an Open-Source Infrastructure Operating Platform designed to unify compute, storage, networking, security, automation, and infrastructure intelligence into a single, cohesive operational experience.
 
-Rather than replacing proven open-source technologies, HyperCore integrates them into a platform that is reliable, understandable, and built for the future.
+Rather than replacing proven Open-Source technologies, HyperCore integrates them into a platform that is reliable, understandable, and built for the future.
 
 Our mission is simple:
 
