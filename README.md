@@ -1,10 +1,12 @@
 # HyperCore
 
-## One Platform. Complete Infrastructure.
+> **One Platform. Complete Infrastructure.**
 
-HyperCore is an open-source Infrastructure Operating Platform (IOP) that unifies compute, virtualization, storage, networking, security, automation, and AI-assisted operations into a single, cohesive platform.
+> **Status:** 🚧 Pre-Alpha | Architecture Phase
 
-Rather than replacing proven open-source technologies, HyperCore integrates them into a platform that is reliable, understandable, and built for the future.
+HyperCore is an open-source **Infrastructure Operating Platform (IOP)** that unifies **compute, virtualization, storage, networking, security, automation, and AI-assisted operations** into a single, cohesive platform.
+
+Rather than replacing mature open-source projects, HyperCore brings them together into one cohesive operating platform.
 
 ---
 
@@ -21,9 +23,11 @@ Rather than replacing proven open-source technologies, HyperCore integrates them
 
 Modern infrastructure is often managed through dozens of disconnected tools.
 
-HyperCore brings those technologies together into a single operational platform, reducing complexity while preserving the flexibility and innovation of the open-source ecosystem.
+HyperCore brings these technologies together into a single operational platform, reducing complexity while preserving the flexibility and innovation of the open-source ecosystem.
 
-### Designed For
+---
+
+## Designed For
 
 * Enterprise Data Centers
 * Managed Service Providers (MSPs)
@@ -50,7 +54,7 @@ HyperCore brings those technologies together into a single operational platform,
 
 HyperCore stands on the shoulders of the open-source community.
 
-Rather than replacing mature technologies, HyperCore integrates proven projects into one cohesive operating platform.
+Rather than replacing mature technologies, HyperCore integrates proven open-source projects into one cohesive operating platform.
 
 Current and planned integrations include:
 
@@ -68,13 +72,13 @@ Current and planned integrations include:
 * Ansible
 * Terraform
 
-…and many more.
+...and many more.
 
 ---
 
 ## Current Status
 
-**Project Status:** Pre-Alpha (Architecture Phase)
+**Project Status:** Pre-Alpha *(Architecture Phase)*
 
 ### Current Focus
 
@@ -88,7 +92,7 @@ Current and planned integrations include:
 
 ## Documentation
 
-The `docs/` directory contains the project's guiding documents:
+The `docs/` directory contains the architectural foundation of HyperCore:
 
 * Constitution
 * Vision
@@ -97,35 +101,6 @@ The `docs/` directory contains the project's guiding documents:
 * Chronicle
 * Roadmap
 * Architecture Decision Records (ADRs)
-
-  ## Contributing
-
-HyperCore is in its earliest stage of development.
-
-We welcome contributors who share our vision of building reliable, understandable, and maintainable infrastructure.
-
-Whether your expertise is in architecture, documentation, Linux, networking, virtualization, storage, automation, or user experience, your contributions are welcome.
-
-As the project matures, contribution guidelines and a code of conduct will be published.
-
----
-
-## License
-
-HyperCore is released under the MIT License.
-
-See the LICENSE file for details.
-
----
-
-## Project Philosophy
-
-HyperCore does not seek to replace great open-source software.
-
-HyperCore exists to bring great open-source software together.
-
-One Platform. Complete Infrastructure.
-
 
 These documents define **why HyperCore exists before defining how it is built.**
 
@@ -139,4 +114,20 @@ Our goal is not simply to manage infrastructure.
 
 Our goal is to help organizations operate infrastructure with confidence.
 
-**Think in decades. Build in milestones.**
+> **Think in decades. Build in milestones.**
+
+---
+
+## Philosophy
+
+> HyperCore does not seek to replace great open-source software.
+>
+> HyperCore exists to bring great open-source software together.
+>
+> **One Platform. Complete Infrastructure.**
+
+---
+
+## License
+
+Released under the **MIT License**.
