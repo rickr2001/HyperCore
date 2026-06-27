@@ -2,7 +2,7 @@
 
 ## One Platform. Complete Infrastructure.
 
-HyperCore is an open-source **Infrastructure Operating Platform (IOP)** that unifies virtualization, storage, networking, security, automation, and AI-assisted operations into a single, cohesive platform.
+HyperCore is an open-source Infrastructure Operating Platform (IOP) that unifies compute, virtualization, storage, networking, security, automation, and AI-assisted operations into a single, cohesive platform.
 
 Rather than replacing proven open-source technologies, HyperCore integrates them into a platform that is reliable, understandable, and built for the future.
 
@@ -97,6 +97,35 @@ The `docs/` directory contains the project's guiding documents:
 * Chronicle
 * Roadmap
 * Architecture Decision Records (ADRs)
+
+  ## Contributing
+
+HyperCore is in its earliest stage of development.
+
+We welcome contributors who share our vision of building reliable, understandable, and maintainable infrastructure.
+
+Whether your expertise is in architecture, documentation, Linux, networking, virtualization, storage, automation, or user experience, your contributions are welcome.
+
+As the project matures, contribution guidelines and a code of conduct will be published.
+
+---
+
+## License
+
+HyperCore is released under the MIT License.
+
+See the LICENSE file for details.
+
+---
+
+## Project Philosophy
+
+HyperCore does not seek to replace great open-source software.
+
+HyperCore exists to bring great open-source software together.
+
+One Platform. Complete Infrastructure.
+
 
 These documents define **why HyperCore exists before defining how it is built.**
 
